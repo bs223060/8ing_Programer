@@ -3,7 +3,6 @@ Easy Game　制作仕様書
 
 制作者：原川 美咲
 
-
 ゲームタイトル：Easy Game
 
 
